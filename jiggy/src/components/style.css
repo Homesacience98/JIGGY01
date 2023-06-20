@@ -1,0 +1,12 @@
+#navlink{
+
+text-decoration: none;
+}
+#navlink:hover{
+    color :red ;
+
+    }
+    #navlink:focus{
+        color :blue ;
+    
+        }
